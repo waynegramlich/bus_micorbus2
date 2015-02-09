@@ -1,2 +1,3 @@
 # bus_micorbus2
-Bus module that connects to two MikroBus modules.
+This repository name was mistyped.  See bus_microbus2 instead.
+
